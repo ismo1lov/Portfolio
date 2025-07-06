@@ -546,7 +546,7 @@ footer .copyright {
     }
 
     .home-img img {
-        width: 66vw;
+        width: 300px;
         margin-top: -2rem;
         object-fit: cover;
     }
@@ -565,7 +565,7 @@ footer .copyright {
     }
 
     .about-img img {
-        width: 66vw;
+        width: 300px;
     }
 
     .skills h2 {
