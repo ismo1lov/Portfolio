@@ -578,3 +578,16 @@ footer .copyright {
         grid-template-columns: repeat(1, 1fr);
     }
 }
+
+@media (max-width: 450px){
+    .about-img img {
+        width: 200px;
+        height:200px;
+    }
+    .home-img img {
+        width: 200px;
+        height: 200px;
+        margin-top: -2rem;
+        object-fit: cover;
+    }
+}
